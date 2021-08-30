@@ -1,29 +1,72 @@
-<!-- Output copied to clipboard! -->
+---
+title: "History of the Piedmont Neighborhood until 1920"
+author: "Jan de Leeuw"
+date: '`r paste("Started in 2016. Last update", format(Sys.Date(),"%B %d, %Y"))`'
+output:
+  bookdown::gitbook:
+    config:
+     keep_md: yes
+     toolbar:
+       position: fixed
+     toc: 
+      collapse: none
+     toc_depth: 5
+  bookdown::pdf_book:
+    keep_tex: yes
+    latex_engine: pdflatex
+    number_sections: yes  
+    toc: yes
+    toc_depth: 5
+description: null
+documentclass: book
+fontsize: 12pt
+graphics: yes
+link-citations: yes
+delete_merged_file: TRUE
+mainfont: Times New Roman
+site: bookdown::bookdown_site
+clean_envir: TRUE
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{=html}
+<style type="text/css">
+
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 18px;
+}
+h1 { /* Header 1 */
+ font-size: 28px;
+ color: DarkBlue;
+}
+h2 { /* Header 2 */
+ font-size: 22px;
+ color: DarkBlue;
+}
+h3 { /* Header 3 */
+ font-size: 18px;
+ color: DarkBlue;
+}
+code.r{ /* Code block */
+  font-size: 18px;
+}
+pre { /* Code block */
+  font-size: 18px
+}
+</style>
+```
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-History of the Piedmont Neighborhood
+![alt_text](index/images/image1.png "image_tooltip")
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-Jan de Leeuw
-
-Table of Contents
-
-Version 12/31/2019
 
 0.   Introduction [[PDF]](https://drive.google.com/open?id=1QzHMQrMUnutETlBx5yGboK6RO50koiM_)
 

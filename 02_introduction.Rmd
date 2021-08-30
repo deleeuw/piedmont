@@ -1,34 +1,16 @@
-<!-- Output copied to clipboard! -->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+# Introduction (Version 10/02/2020)
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-**The author of this article lives and works on unceded territory of the Multnomah, Kathlamet, Clackamas, bands of Chinook, Tualatin Kalapuya, Molalla and many other Tribes who made their homes along the Columbia River.**
-
-
-# Introduction
-
-
-## Version 10/02/2020
-
-
-[TOC]
-
-
-
-
-
-# Piedmont
+## Piedmont
 
 Piedmont is one of the 95 neighborhoods in the neighborhood system of Portland, Oregon, and one of the eleven neighborhoods in the North Portland district coalition.
 
 
-    _Portland's nationally recognized neighborhood system is made up of 95 recognized, independent neighborhood associations and seven neighborhood district coalition offices that represent the entire city of Portland. [https://www.portlandoregon.gov/oni/28989](https://www.portlandoregon.gov/oni/28989)_
+>    _Portland's nationally recognized neighborhood system is made up of 95 recognized, 
+> independent neighborhood associations and seven neighborhood district coalition offices 
+> that represent the entire city of Portland. 
+> [https://www.portlandoregon.gov/oni/28989](https://www.portlandoregon.gov/oni/28989)_
 
 The Piedmont neighborhood gets its name from the Piedmont subdivision, platted in 1889 by Edward Quackenbush and the Investment Company. And the Piedmont subdivision gets its name from the region in northwest Italy, known for its gentle slopes and hillsides. I am pretty sure the name Piedmont was chosen for its commercial appeal, and not for the physical resemblance with the eponymous region in Italy, which actually looks quite different. 
 
@@ -36,10 +18,7 @@ Although:[https://en.wikipedia.org/wiki/Piedmont_(United_States)](https://en.wik
 
 The Piedmont subdivision is only a small part of the Piedmont neighborhood, in fact less than ten percent of its area. And, conversely, only half of the Piedmont subdivision is in the Piedmont neighborhood, the rest is in Humboldt and King.
 
-
-
-
-# Land
+## Land
 
 Throughout this book, I concentrate on land and land ownership. It is essential, therefore, to remember that Oregon, Portland, and Piedmont were started by settler colonialism. This meant the United States occupied lands used for centuries by indigenous peoples, and declared it to be public lands of the United States. War, terror, vigilantes, disease, broken treaties, racism, religion, and unjust laws made sure the unceded lands stayed in the hands of the occupying forces. The small percentage of indigenous people that survived the onslaught were driven onto ever shrinking reservations. In the middle of the nineteenth century, when settlers started to arrive and Portland became a fast growing city, there were very few Native Americans left in the area.
 
@@ -52,7 +31,7 @@ In the book I will discuss the original homesteads and the subsequent subdivisio
 
 
 
-# Bias 
+## Bias 
 
 As you will probably figure out quickly, I like maps. I also like facts, more than I like opinions. I like words, more than I like photographs. Thus this book is not of the coffee table type, with many photos and only a few words. 
 
@@ -63,7 +42,7 @@ There are two other important types of Portland history books I do not want to e
 
 
 
-# Technical
+## Technical
 
 This book is, and always will be, free and in the public domain. Anyone can copy, print, distribute or otherwise use the material in this book for any purpose whatsoever, and, if they so choose, without attribution.
 
